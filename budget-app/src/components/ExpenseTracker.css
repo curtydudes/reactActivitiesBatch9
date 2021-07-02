@@ -1,0 +1,13 @@
+.income-btn {
+    background-color: var(--income);
+  }
+.expense-btn {
+    background-color: var(--expense);
+  }
+  .income-text {
+    color: var(--income);
+  }
+  .expense-text {
+    color: var(--expense);
+  }
+  
